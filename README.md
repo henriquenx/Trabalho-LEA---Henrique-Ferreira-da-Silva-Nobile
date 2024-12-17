@@ -7,10 +7,10 @@ Este projeto realiza a extração de dados de notícias econômicas do site A Ci
 Os dados são salvos em um arquivo JSON dentro de uma pasta data e podem ser utilizados para análises posteriores.
 
 **Estrutura do Repositório**
-- script.py: Script Python responsável pela extração e salvamento dos dados.
+- noticias_cidade_on_rp.ipynb: Notebook responsável pela extração e salvamento dos dados.
 - data/noticias.json: Arquivo contendo os dados extraídos.
-- analise.ipynb: Notebook contendo a análise dos dados coletados.
-- README.md: Documentação detalhada do projeto.
+- analise_noticias_cidade_on_rp.ipynb: Notebook contendo a análise dos dados coletados.
+- README.md: Documentação do projeto.
 
 **Tecnologias Utilizadas**
 - Python 3.x
