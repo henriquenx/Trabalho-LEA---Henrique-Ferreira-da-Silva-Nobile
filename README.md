@@ -2,7 +2,7 @@
 
 **Descrição do Projeto**
 
-Este projeto realiza a extração de dados de notícias econômicas do site A Cidade ON, percorrendo até 50 páginas de conteúdo. Utilizando as bibliotecas Requests e BeautifulSoup, o script coleta informações como URL, título, data, categoria e uma breve descrição de cada notícia.
+Este projeto realiza a extração de dados de notícias econômicas do site A Cidade ON, passando por 50 páginas de conteúdo. Utilizando as bibliotecas Requests e BeautifulSoup, o script coleta informações como URL, título, data, categoria e uma breve descrição de cada notícia.
 
 Os dados são salvos em um arquivo JSON dentro de uma pasta data e podem ser utilizados para análises posteriores.
 
